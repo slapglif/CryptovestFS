@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="245e2231-206f-461e-95d4-00a4f9b32b73" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/01.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/02.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/03.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/04.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/05.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/06.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/07.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/08.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/09.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/clients-pic/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/products/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/projects/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/clients/1.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/10.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/11.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/12.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/13.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/14.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/overlays/15.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/clients-pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/products/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/clients/2.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/clients-pic/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/products/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/clients/3.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/products/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/clients/4.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/products/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/clients/5.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/products/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/clients/6.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/products/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/icon-fonts/fonts/712-icon-fonts.eot" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/icon-fonts/fonts/712-icon-fonts.ttf" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/icon-fonts/fonts/712-icon-fonts.woff" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/products/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/portfolio/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/icons/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/icons/apple-touch-icon-74x74.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/icons/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/backgrounds/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/backgrounds/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/backgrounds/bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/icons/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-bag.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-bag2.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-book.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-camera.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-check.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-clock.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-comments.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-compas.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-config.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-console.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-culture.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-disk.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-download.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-drop.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-file.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-film.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-flag.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-folder.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-garbage.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-graph.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-heart.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-help.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-lock.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-map.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-media.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-money.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-monitor.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-notes.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-openmail.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-phone.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-photo.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-portfolio.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-print.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-responsive.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-ribbon.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-search.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-shop.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-statistics.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-tablet.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-ticket.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-truck.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-upload.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-upload2.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-user.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-view.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-voicemail.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-wallet.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/pd-icons/icon-worldmap.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/lines-dark.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/lines.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/team/pic1.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/team/pic2.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/team/pic3.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/team/pic4.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/team/pic5.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/team/pic6.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/team/pic7.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/team/pic8.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/images/product-bg.png" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/icon-fonts/fonts/712-icon-fonts.svg" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/.idea/CryptovestFS.iml" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/jquery.fittext.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/jquery.nav.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/css/jquery.vegas.min.css" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/jquery.vegas.min.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/mandril.py" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/models.py" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/css/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/css/pixeden-icons.css" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/run.py" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/scrollReveal.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/smoothscroll.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/assets/icon-fonts/styles.css" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/views.py" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="E:/projects/CryptovestFS/app/static/js/zerif.js" />
+    </list>
+    <ignored path="untitled1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CryptovestFS$run.coverage" NAME="run Coverage Results" MODIFIED="1437726547121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/projects/CryptovestFS" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/projects/CryptovestFS/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://E:/projects/CryptovestFS/app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.668239">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <folding>
+                <element signature="e#49#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/main-files/Zerif/with-animation/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.769231">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://E:/projects/CryptovestFS/app/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.461538">
+              <caret line="1763" column="13" selection-start-line="1763" selection-start-column="13" selection-end-line="1763" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mandril.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/projects/CryptovestFS/app/mandril.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mandril.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/projects/viralex/app/mandril.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/projects/CryptovestFS/app/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.965517">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/projects/viralex/app/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/projects/CryptovestFS/app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/projects/CryptovestFS" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="E:/projects/untitled1/untitled1.py" />
+        <option value="E:/projects/app/untitled1.py" />
+        <option value="E:/projects/CryptovestFS/run.py" />
+        <option value="E:/projects/CryptovestFS/app/models.py" />
+        <option value="E:/projects/CryptovestFS/app/__init__.py" />
+        <option value="E:/projects/CryptovestFS/app/mandril.py" />
+        <option value="E:/projects/CryptovestFS/app/templates/index.html" />
+        <option value="E:/projects/CryptovestFS/app/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CryptovestFS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CryptovestFS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CryptovestFS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CryptovestFS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CryptovestFS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CryptovestFS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CryptovestFS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CryptovestFS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="E:/projects/CryptovestFS" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\CryptovestFS\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration default="false" name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/projects/CryptovestFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CryptovestFS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/projects/CryptovestFS/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="untitled1" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/projects/untitled1/untitled1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.untitled1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="245e2231-206f-461e-95d4-00a4f9b32b73" name="Default" comment="" />
+      <created>1437725798646</created>
+      <option name="number" value="Default" />
+      <updated>1437725798646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17270789" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28138527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/kush-boilerplate-run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/kush-boilerplate-init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/kush-boilerplate-models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/viralex/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/viralex/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/CryptovestFS/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/viralex/app/mandril.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/CryptovestFS/app/mandril.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/main-files/Zerif/with-animation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/CryptovestFS/app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.461538">
+          <caret line="1763" column="13" selection-start-line="1763" selection-start-column="13" selection-end-line="1763" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/CryptovestFS/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/CryptovestFS/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.965517">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/viralex/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.085141905">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/CryptovestFS/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.668239">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <element signature="e#49#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
