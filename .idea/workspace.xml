@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="245e2231-206f-461e-95d4-00a4f9b32b73" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="E:/projects/CryptovestFS/app/models.py" afterPath="E:/projects/CryptovestFS/app/models.py" />
-      <change type="MODIFICATION" beforePath="E:/projects/CryptovestFS/.idea/workspace.xml" afterPath="E:/projects/CryptovestFS/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="E:/projects/CryptovestFS/app/__init__.py" afterPath="E:/projects/CryptovestFS/app/__init__.py" />
+      <change type="MODIFICATION" beforePath="E:/projects/CryptovestFS/app/mandril.py" afterPath="E:/projects/CryptovestFS/app/mandril.py" />
     </list>
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mandril.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mandril.py" pinned="false" current-in-tab="true">
         <entry file="file://E:/projects/CryptovestFS/app/mandril.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.24056605">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -95,8 +95,8 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://E:/projects/CryptovestFS/app/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.965517">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="8" />
+            <state vertical-scroll-proportion="-2.7586207">
+              <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -116,10 +116,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://E:/projects/CryptovestFS/app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8286164">
+            <state vertical-scroll-proportion="0.0">
               <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -148,11 +148,11 @@
         <option value="E:/projects/untitled1/untitled1.py" />
         <option value="E:/projects/app/untitled1.py" />
         <option value="E:/projects/CryptovestFS/run.py" />
-        <option value="E:/projects/CryptovestFS/app/__init__.py" />
-        <option value="E:/projects/CryptovestFS/app/mandril.py" />
         <option value="E:/projects/CryptovestFS/app/templates/index.html" />
         <option value="E:/projects/CryptovestFS/app/views.py" />
         <option value="E:/projects/CryptovestFS/app/models.py" />
+        <option value="E:/projects/CryptovestFS/app/__init__.py" />
+        <option value="E:/projects/CryptovestFS/app/mandril.py" />
       </list>
     </option>
   </component>
@@ -520,7 +520,13 @@
       <option name="project" value="LOCAL" />
       <updated>1437726886584</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="inital commit">
+      <created>1437727269297</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1437727269297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -620,16 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/projects/CryptovestFS/app/mandril.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/main-files/Zerif/with-animation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.769231">
@@ -654,16 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/projects/CryptovestFS/app/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.965517">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/projects/viralex/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.085141905">
@@ -684,10 +670,30 @@
     </entry>
     <entry file="file://E:/projects/CryptovestFS/app/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8286164">
+        <state vertical-scroll-proportion="0.0">
           <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/CryptovestFS/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7586207">
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/projects/CryptovestFS/app/mandril.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24056605">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
