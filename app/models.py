@@ -17,7 +17,6 @@ class User(UserMixin, Base):
     social_id = Column(String(64), nullable=True, unique=True)
     nickname = Column(String(64), nullable=True, unique=True)
     email = Column(String(64), nullable=True, unique=True)
-    vpoints = Column(String(64), nullable=True)
     email_confirmed = Column(Boolean(), nullable=True)
     _password = Column(String(128))
     oauth_token = Column(String(200))
