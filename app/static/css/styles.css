@@ -383,7 +383,7 @@ input:focus {
 	position: absolute;
 	left: 50%;
 	top: 50%;
-	background-image: url(../images/loading.gif);
+	background-image: url(/static/images/loading.gif);
 	background-repeat: no-repeat;
 	background-position: center;
 	margin: -100px 0 0 -100px;
@@ -557,7 +557,7 @@ input:focus {
 
 /*----OTHER FOCUSES ----*/
 .other-focuses {
-	background: url(../images/lines.png) repeat-x center;
+	background: url(/static/images/lines.png) repeat-x center;
 	margin-bottom: 25px;
 }
 .other-focuses .section-footer-title {
@@ -754,7 +754,7 @@ width: -webkit-calc(100% / 2);
 	display: none;
 }
 #loader .loader-icon {
-	background: url(../images/loading.gif) no-repeat center center;
+	background: url(/static/images/loading.gif) no-repeat center center;
 	background-color: #FFF;
 	margin: -22px -22px;
 	top: 50%;
@@ -826,7 +826,7 @@ width: -webkit-calc(100% / 2);
 
 /*--OUR CLIENTS --*/
 .our-clients {
-	background: url(../images/lines-dark.png) repeat-x center;
+	background: url(/static/images/lines-dark.png) repeat-x center;
 	margin-bottom: 40px;
 }
 .our-clients .section-footer-title {
@@ -1115,7 +1115,7 @@ width: -webkit-calc(100% / 2);
 -----------------------------------------*/
 
 .products {
-	background: url(../images/product-bg.png) 50% 0 repeat;
+	background: url(/static/images/product-bg.png) 50% 0 repeat;
 }
 .products .color-overlay {
 	background: rgba(39,144,176, 0.96);
@@ -1126,28 +1126,28 @@ width: -webkit-calc(100% / 2);
 
 /*--ITEMS IMAGES--*/
 .item-1 {
-	background-image: url(../images/products/1.jpg);
+	background-image: url(/static/images/products/1.jpg);
 }
 .item-2 {
-	background-image: url(../images/products/2.jpg);
+	background-image: url(/static/images/products/2.jpg);
 }
 .item-3 {
-	background-image: url(../images/products/3.jpg);
+	background-image: url(/static/images/products/3.jpg);
 }
 .item-4 {
-	background-image: url(../images/products/4.jpg);
+	background-image: url(/static/images/products/4.jpg);
 }
 .item-5 {
-	background-image: url(../images/products/5.jpg);
+	background-image: url(/static/images/products/5.jpg);
 }
 .item-6 {
-	background-image: url(../images/products/6.jpg);
+	background-image: url(/static/images/products/6.jpg);
 }
 .item-7 {
-	background-image: url(../images/products/7.jpg);
+	background-image: url(/static/images/products/7.jpg);
 }
 .item-8 {
-	background-image: url(../images/products/8.jpg);
+	background-image: url(/static/images/products/8.jpg);
 }
 
 /*---ITEM STYLE ---*/
