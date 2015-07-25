@@ -873,7 +873,7 @@ width: -webkit-calc(100% / 2);
 -----------------------------------------*/
 
 .stats {
-	background: rgba(255, 255, 255, 0.4);
+	background: rgba(255, 255, 255, 0.2);
 	padding: 100px 0 60px 0 !important;
 	clear: both;
 	color: black;
