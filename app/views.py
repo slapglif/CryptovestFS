@@ -25,3 +25,20 @@ def load_user(id):
 @app.route('/')
 def index():
     return render_template("index.html")
+
+
+@app.route("/login", methods=["GET", "POST"])
+def login():
+
+    if request.form.get("email"):
+        user = User.query.filter_by(email=request.form.get("email")).first()
+        if user.is_correct_password(request.form.get("password")):
+            login_user(user, True)
+            print "password is correct"
+            return redirect(url_for('index'))
+        else:
+            print "password is not correct"
+            return redirect(url_for('login'))
+    print "no password"
+
+    return render_template('login.html')

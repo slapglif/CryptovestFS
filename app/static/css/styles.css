@@ -227,7 +227,7 @@ h6 {
 	color: #404040;
 }
 .white-text {
-	color: #FFFFFF;
+	color: black;
 }
 
 /*---------------------------------------
@@ -873,9 +873,10 @@ width: -webkit-calc(100% / 2);
 -----------------------------------------*/
 
 .stats {
-	background: rgba(0, 0, 0, 0.5);
+	background: rgba(255, 255, 255, 0.4);
 	padding: 100px 0 60px 0 !important;
 	clear: both;
+	color: black;
 }
 .stat {
 	margin-bottom: 40px;
@@ -896,7 +897,7 @@ width: -webkit-calc(100% / 2);
 	display: inline-block;
 }
 .stat h6 {
-	color: #d1d1d1;
+	color: black;
 	margin-top: 15px;
 }
 
