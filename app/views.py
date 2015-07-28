@@ -24,8 +24,11 @@ def load_user(id):
 
 @app.route('/')
 def index():
-    return render_template("index.html")
+    return render_template("/home/index.html")
 
+@app.route('/register')
+def reg():
+    return render_template("dashboard/register.html")
 
 @app.route("/login", methods=["GET", "POST"])
 def login():
@@ -35,10 +38,14 @@ def login():
         if user.is_correct_password(request.form.get("password")):
             login_user(user, True)
             print "password is correct"
-            return redirect(url_for('index'))
+            return redirect(url_for('dashboard'))
         else:
             print "password is not correct"
             return redirect(url_for('login'))
     print "no password"
 
-    return render_template('login.html')
+    return render_template("dashboard/login.html")
+
+@app.route("/dashboard")
+def dashboard():
+    return render_template("dashboard/index.html")
