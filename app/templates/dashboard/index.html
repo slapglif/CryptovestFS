@@ -1,7 +1,12 @@
 {% extends 'dashboard/layout.html' %}
 {% block body %}
+
+
+
+
 <!--Start Container-->
 <div id="main" class="container-fluid">
+	{% if conf == 1 %}
 	<div class="row">
 		<div id="sidebar-left" class="col-xs-2 col-sm-2">
 			<ul class="nav main-menu">
@@ -172,7 +177,9 @@
 					</ul>
 				</li>
 			</ul>
+
 		</div>
+
 		<!--Start Content-->
 		<div id="content" class="col-xs-12 col-sm-10">
 			<div class="preloader">
@@ -181,8 +188,28 @@
 			<div id="ajax-content"></div>
 		</div>
 		<!--End Content-->
+
+
+{% elif conf == None%}
+
+	<div align="center">
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<h2>You must be signed in to continue</h2>
+	<a href="/login"><button class="btn btn-info">Click here to Sign in</button></a>
 	</div>
-</div>
-<!--End Container-->
+
+{% elif conf == 0 %}
+
+	<div align="center">
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<h2>You must activate your email before you can continue!</h2>
+
+
+{% endif %}
+
 
 {% endblock %}

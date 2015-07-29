@@ -30,6 +30,71 @@ def index():
 def reg():
     return render_template("dashboard/register.html")
 
+@app.route('/register/create', methods=["GET", "POST"])
+def create_account():
+    output = render_template("dashboard/register.html")
+    if request.form.get("remail1"):
+        output = redirect(url_for("index"))
+        email = request.form.get("remail2")
+        if request.form.get("rpw") != None:
+            password = request.form.get("rpw")
+        else:
+            password = "test"
+
+        user = User(nickname=request.form.get("username"), email=email, password=password, email_confirmed=0)
+
+        # Now we'll send the email confirmation link
+        subject = "Confirm your email"
+
+        token = ts.dumps(user.email, salt='email-confirm-key')
+
+        confirm_url = url_for(
+            'confirm_email',
+            token=token,
+            _external=True)
+
+        html = render_template(
+            'dashboard/email/activate.html',
+            confirm_url=confirm_url)
+
+
+        db_session.add(user)
+        db_session.commit()
+        checkbox = request.form.get("remember")
+        login_user(user, checkbox)
+        drill(user.email, subject, html)
+        output = redirect(url_for("dashboard"))
+
+    return output
+
+
+
+
+@app.route('/confirm/<token>')
+def confirm_email(token):
+    try:
+        email = ts.loads(token, salt="email-confirm-key", max_age=86400)
+    except:
+        return "404"
+
+    user = User.query.filter_by(email=email).first()
+
+    user.email_confirmed = True
+    session['user'] = user.id
+    db_session.commit()
+
+
+    return redirect('/dashboard')
+
+
+
+@app.route("/lostpw")
+def lostpw():
+    return render_template('dashboard/lostpw.html')
+
+
+
+
 @app.route("/login", methods=["GET", "POST"])
 def login():
 
@@ -38,6 +103,7 @@ def login():
         if user.is_correct_password(request.form.get("password")):
             login_user(user, True)
             print "password is correct"
+            session['user'] = user.id
             return redirect(url_for('dashboard'))
         else:
             print "password is not correct"
@@ -46,6 +112,22 @@ def login():
 
     return render_template("dashboard/login.html")
 
+
 @app.route("/dashboard")
 def dashboard():
-    return render_template("dashboard/index.html")
+
+    user = None
+    conf = None
+    if 'user' in session:
+        user = User.query.filter_by(id=session['user']).first()
+        print user
+        if user != None:
+            conf = user.email_confirmed
+        else:
+            print "no"
+    output = render_template('dashboard/index.html',user=user,conf=conf)
+
+    return output
+
+
+
