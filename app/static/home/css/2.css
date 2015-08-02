@@ -1843,7 +1843,7 @@ body:not(.device-touch) #page-menu.dots-menu nav li .dots-menu-caption {
 
 .home-cta-wrapper
 {
-	background-color: #007ac9;
+	background-color: rgba(0,0,0,0.15);
 	color: #fff;
 }
 
