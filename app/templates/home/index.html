@@ -42,6 +42,10 @@
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="theme-color" content="#ffffff">
 
+<!-- ICON NEEDS FONT AWESOME FOR CHEVRON UP ICON -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
 
 
@@ -52,6 +56,22 @@
     <link href="/static/home/css/2.css" rel="stylesheet"/>
 
 
+
+    <script>	$(function() {
+	  $('a[href*=#]:not([href=#])').click(function() {
+	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	      if (target.length) {
+	        $('html,body').animate({
+	          scrollTop: target.offset().top
+	        }, 1000);
+	        return false;
+	      }
+	    }
+	  });
+	});</script>
     
 
     <script type="text/javascript">(function (r) { _ready = { q: function () { return r } }; $ = function (f) { if (typeof f === "function") { r.push(arguments) } return $ }; jQuery = $.ready = $ }([]));</script>
@@ -105,11 +125,11 @@
                 <ul>
 
                 <li class="">
-                    <a href='/solutions/' title='Solutions'  >Solutions</a>
+                    <a href='#services' title='Solutions' data-click="scroll-to-target" >Solutions</a>
         <ul style="display: none;">
-                <li class=""><a href='/brokers' title='Brokers'  >Brokers</a></li>
-                <li class=""><a href='/consumers/' title='Consumers'  >Corporate</a></li>
-                <li class=""><a href='/corporate/' title='Corporate'  >Corporate</a></li>
+                <li class=""><a href='#services' title='Brokers'  >Brokers</a></li>
+                <li class=""><a href='#services' title='Consumers'  >Consumers</a></li>
+                <li class=""><a href='#services' title='Corporate'  >Corporate</a></li>
         </ul>
                 </li>
 
@@ -130,7 +150,7 @@
                 </li>
 
                 <li class="">
-                    <a href='/contact/' title='Contact'  >Contact</a>
+                    <a href='#footer' title='Contact'  >Contact</a>
                 </li>
 
             <li>
@@ -189,7 +209,7 @@
             </div>
 
             <div class="button-wrapper">
-                <a href="/solutions/" title="Solutions" class="button button-rounded button-reveal button-xlarge button-red tright h-banner-btn"><i class="icon-angle-down"></i><span>Find out more</span></a>
+                <a href="#solutions" title="Solutions" class="button button-rounded button-reveal button-xlarge button-red tright h-banner-btn"><i class="icon-angle-down"></i><span>Find out more</span></a>
             </div>
         </div>
     </div>
@@ -214,11 +234,25 @@
 
     
 
-
+<section id="services">
 <div class="section nomargin home-cta-wrapper">
     <div class="container clearfix">
         <div class="row portfolio-responsive">
-
+                    <div class="col-sm-4">
+                        <div class="portfolio-item">
+                            <div class="portfolio-image">
+                                <div><img class="image_fade" src="/CropUp/600x400/media/23722/travel.jpg" alt="" style="opacity: 1;"></div>
+                                <div class="portfolio-overlay">
+                                    <h3><span class="subtitle">A safer way to carry currency abroad</span></h3>
+                                    <div class="clearfix"></div>
+                                    <a href="/sectors/travel/" title="Travel" class="button button-rounded button-reveal button-large button-red tright"><i class="icon-angle-right"></i><span>Learn More</span></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="portfolio-title">
+                            <h3>Brokers</h3>
+                        </div>
+                    </div>
                     <div class="col-sm-4">
                         <div class="portfolio-item">
                             <div class="portfolio-image">
@@ -249,21 +283,7 @@
                             <h3>Corporate </h3>
                         </div>
                     </div>
-                    <div class="col-sm-4">
-                        <div class="portfolio-item">
-                            <div class="portfolio-image">
-                                <div><img class="image_fade" src="/CropUp/600x400/media/23722/travel.jpg" alt="" style="opacity: 1;"></div>
-                                <div class="portfolio-overlay">
-                                    <h3><span class="subtitle">A safer way to carry currency abroad</span></h3>
-                                    <div class="clearfix"></div>
-                                    <a href="/sectors/travel/" title="Travel" class="button button-rounded button-reveal button-large button-red tright"><i class="icon-angle-right"></i><span>Learn More</span></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="portfolio-title">
-                            <h3>Travel</h3>
-                        </div>
-                    </div>
+
         </div>
     </div>
 </div>
@@ -414,8 +434,6 @@ SW1Y 5ED
     <script src="/static/home/js/jqv.js"></script>
 
     <script src="/static/home/js/site.js"></script>
-
-
 
 
 
