@@ -4,8 +4,8 @@
 $.vegas('slideshow', {
   delay:7000,
   backgrounds:[
-        { src:'http://puu.sh/jgl4S/a4bdda1992.png', fade:3000 },
-          { src:'http://puu.sh/jgl6J/b18520327d.jpg', fade:3000 }
+        { src:'/static/home/images/bg2.jpg', fade:3000 },
+          { src:'/static/home/images/bg3.jpg', fade:3000 }
   ]
 });
       
