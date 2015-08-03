@@ -4,7 +4,7 @@
 $.vegas('slideshow', {
   delay:7000,
   backgrounds:[
-        { src:'/static/home/images/bg2.jpg', fade:3000 },
+        { src:'/static/home/images/bg2.png', fade:3000 },
           { src:'/static/home/images/bg3.jpg', fade:3000 }
   ]
 });
