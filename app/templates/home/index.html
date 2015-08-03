@@ -346,7 +346,7 @@ body {
         <div class="row portfolio-responsive">
 <div class="col-sm-4">
                         <div class="portfolio-item">
-                            <div class="portfolio-image"><img class="image_fade" src="/static/home/images/broker.jpg" alt="" style="opacity: 1; visibility: visible; display: block;"></div>
+                            <div class="portfolio-image" style="display:none"><img class="image_fade" src="/static/home/images/broker.jpg" alt="" style="opacity: 1; visibility: visible; display: block;"></div>
                                 <div><div class="portfolio-overlay">
 									 <h3><span class="subtitle">Registered brokers for a trustless enviroment</span></h3>
                                     <div class="clearfix"></div>
@@ -364,7 +364,7 @@ body {
 
 <div class="col-sm-4">
                         <div class="portfolio-item">
-                            <div class="portfolio-image"><img class="image_fade" src="/static/home/images/consumer.jpg" alt="" style="opacity: 1; visibility: visible; display: block;"></div>
+                            <div class="portfolio-image" style="display: none"><img class="image_fade" src="/static/home/images/consumer.jpg" alt="" style="opacity: 1; visibility: visible; display: block;"></div>
                                 <div><div class="portfolio-overlay">
 									 <h3><span class="subtitle">The smarter way for your customers to pay</span></h3>
                                     <div class="clearfix"></div>
@@ -381,7 +381,7 @@ body {
 
 <div class="col-sm-4">
                         <div class="portfolio-item">
-                            <div class="portfolio-image"><img class="image_fade" src="/static/home/images/corp.jpg" alt="" style="opacity: 1; visibility: visible; display: block;"></div>
+                            <div class="portfolio-image" style="display: none"><img class="image_fade" src="/static/home/images/corp.jpg" alt="" style="opacity: 1; visibility: visible; display: block;"></div>
                                 <div><div class="portfolio-overlay">
 									 <h3><span class="subtitle">Adaptable solutions to suit your business needs</span></h3>
                                     <div class="clearfix"></div>
@@ -581,6 +581,11 @@ body {
 <script src="/static/home/js//smoothscroll.js"></script>
 <script src="/static/home/js//jquery.vegas.min.js"></script>
 <script src="/static/home/js//zerif.js"></script>
+
+
+<script>
+    window.setTimeout(function() { $(".portfolio-image").show() }, 1000); // delay showing the images
+</script>
 
 <script>$(window).on("scroll touchmove", function () {
   $('#header_nav').toggleClass('tiny', $(document).scrollTop() > 0);
