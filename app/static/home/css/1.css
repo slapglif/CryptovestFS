@@ -5465,7 +5465,7 @@ body:not(.device-touch) .clients-grid li a {
     .owl-carousel.owl-loading {
         display: block;
         min-height: 100px;
-        background: url('/_frontend/images/preloader.gif') no-repeat center center;
+        background: url('http://i1.wp.com/i1146.photobucket.com/albums/o528/arcki1/loading-x_zpsi9vqtbnu.gif') no-repeat center center;
     }
 
     .owl-carousel.owl-hidden {
@@ -6459,7 +6459,7 @@ body:not(.device-touch) #gotoTop {
     display: block;
     width: 100%;
     height: 100%;
-    background: url("/_frontend/images/preloader.gif") center center no-repeat #FFF;
+    background: url("http://i1.wp.com/i1146.photobucket.com/albums/o528/arcki1/loading-x_zpsi9vqtbnu.gif") center center no-repeat #FFF;
 }
 
 .preloader2 {
